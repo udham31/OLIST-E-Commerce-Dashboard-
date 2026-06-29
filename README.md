@@ -163,12 +163,11 @@ Images/dashboard.png
 
 **Udham Singh**
 
-Aspiring Data Analyst passionate about transforming raw data into meaningful business insights using **Python, SQL, Excel, and Power BI**.
+Aspiring Data Analyst passionate about transforming raw data into meaningful business insights using **Python, Excel, and Power BI**.
 
 ### Skills
 
 * Python
-* SQL
 * Power BI
 * Excel
 * Pandas
